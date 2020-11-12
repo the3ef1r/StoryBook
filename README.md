@@ -9,7 +9,7 @@ npm install
 
 ### Run StoryBook
 ```
-npm run serve
+npm run storybook
 ```
 
 ### Compiles and hot-reloads for development
